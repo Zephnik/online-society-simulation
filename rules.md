@@ -1,4 +1,5 @@
-***__Rules __***
+***__Rules__***
+
 These are the rules that are constantly effective in our Discord server (currently named "So Long Gay Bowser"). 
 
 __**Rules of Order**__
@@ -33,15 +34,15 @@ All HRSMs must be in unanimous agreement before a server member is promoted.
 A member can not be Promoted to Rank 1 (Server Owner) if the Promotion is originally activated by this rule (B3). 
 
 __**List of Legal Terms:**__ 
-- **SLGB**
+- **SLGB:**
 The Discord server in which these rules are effective, can be legally referred to as "So Long Gay Bowser" or simply "SLGB". 
-- **NSFW and NSFL** 
+- **NSFW and NSFL:**
 Anything sexual counts as "NSFW", while anything gory/disturbing counts as "NSFL". 
-- **Spam** 
+- **Spam:**
 Messages with an unnecessary @everyone ping or simply gibberish may be considered "spam". Bot commands count as spam, unless they are sent in #bots.
-- **Rank** 
+- **Rank:**
 Level of authority a server member can have (described in rule B1).
-- **Demotion** 
+- **Demotion:**
 The act of reducing one's Rank (described in rule B2). 
-- **Highly Ranked Server Member** 
+- **Highly Ranked Server Member:**
 A server member with a Rank of 1, 2 or 3. The term "HRSM" can be used in place of this. 
