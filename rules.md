@@ -33,6 +33,10 @@ When the vote is over, the aforementioned server member will be Promoted to a Ra
 All HRSMs must be in unanimous agreement before a server member is promoted. 
 A member can not be Promoted to Rank 1 (Server Owner) if the Promotion is originally activated by this rule (B3). 
 
+__**Rules of Ownership**__ 
+- **Rule C1:** 
+bla bla ownership bla bla election
+
 __**List of Legal Terms:**__ 
 - **SLGB:**
 The Discord server in which these rules are effective, can be legally referred to as "So Long Gay Bowser" or simply "SLGB". 
