@@ -1,4 +1,4 @@
-#Rules 
+***__Rules __***
 These are the rules that are constantly effective in our Discord server (currently named "So Long Gay Bowser"). 
 
 __**Rules of Order**__
