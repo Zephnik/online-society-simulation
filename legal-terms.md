@@ -15,3 +15,5 @@ A server member with a Rank of 1, 2 or 3. The term "HRSM" can be used in place o
 The process of choosing the new owner of SLGB. 
 - **Candidate:** 
 Someone who possesses the @Kandidat role. Candidates can become the Server Owner. 
+- **Election Day:** 
+The date during which the Election happens. 
