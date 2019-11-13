@@ -27,7 +27,7 @@ In this vote, the options will be "0", "1" and "2".
 When the vote is over, the aforementioned server member will be Demoted to a Rank that is as much lower than their current Rank as the option that had the most votes.
 While this vote is ongoing, the aforementioned server member will be "suspended". A suspended server member's Rank is 4 (@Menneske) until the vote is over.
 - **Rule B3:** 
-Any member may, at any time, request a Promotion of any server member. When a Demotion is requested, a vote will be open for all server members for at least 6 hours, and maximum 24 hours. 
+Any member may, at any time, request a Promotion of any server member. When a Promotion is requested, a vote will be open for all server members for at least 6 hours, and maximum 24 hours. 
 In this vote, the options will be "0", "1" and "2". 
 When the vote is over, the aforementioned server member will be Promoted to a Rank that is as much higher than their current Rank as the option that had the most votes. 
 All HRSMs must be in unanimous agreement before a server member is promoted. 
