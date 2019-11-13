@@ -49,9 +49,9 @@ During the day *after* this date, the Server Owner (member Ranked 1) is to count
 This means that the server member who is currently Ranked 1, has to transfer ownership of SLGB to the "winning" Candidate. 
 Should a tie occur, no change in ownership will be made. 
 
-__**Rules of Jobs**__ 
-- **Rule D1 - bla bla job:**
-bla bla get job bla bla do job stuff
+__**Rules of Economy**__ 
+- **Rule D1 - bla bla money:**
+bla bla do stuff for others bla bla get cash
 
 
 
